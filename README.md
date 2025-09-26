@@ -1,2 +1,6 @@
 # apnacollege-pemo
+<<<<<<< HEAD
 This is my first repository hello......
+=======
+This is my first repository...
+>>>>>>> 883ff24e83a6b37709c67399cf8e4e753e40b08e
